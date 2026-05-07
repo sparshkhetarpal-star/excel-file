@@ -39,17 +39,17 @@ The dashboard provides:
 ---
 
 ## 🗂️ Category Guide
-![Category Guide](./category_guide.png)
+![Category Guide](https://github.com/sparshkhetarpal-star/excel-file/blob/main/PHOTO-2026-05-07-11-53-06%202.jpg)
 
 ---
 
 ## 👥 Customer Summary
-![Customer Summary](./customer_summary.png)
+![Customer Summary](https://github.com/sparshkhetarpal-star/excel-file/blob/main/PHOTO-2026-05-07-11-53-06%203.jpg)
 
 ---
 
 ## 💳 Customer Transaction Analysis
-![Customer Transaction](./customer_transaction.png)
+![Customer Transaction](https://github.com/sparshkhetarpal-star/excel-file/blob/main/PHOTO-2026-05-07-11-53-06.jpg)
 
 ---
 

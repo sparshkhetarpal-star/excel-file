@@ -34,7 +34,7 @@ The dashboard provides:
 # 📸 Project Screenshots
 
 ## 📊 Main Dashboard
-![Dashboard]([)](https://github.com/sparshkhetarpal-star/excel-file/blob/main/PHOTO-2026-05-07-11-53-05.jpg)
+![Dashboard](https://github.com/sparshkhetarpal-star/excel-file/blob/main/PHOTO-2026-05-07-11-53-05.jpg)
 
 ---
 
